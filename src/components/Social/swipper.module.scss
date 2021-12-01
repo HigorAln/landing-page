@@ -1,0 +1,12 @@
+.cart{
+  width: 1200px;
+  height: 380px;
+  border-radius: 15px;
+  display: flex;
+  padding: 15px;
+  cursor: pointer;
+
+  &:active{
+    cursor: grabbing
+  }
+}
